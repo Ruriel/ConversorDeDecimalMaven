@@ -1,5 +1,5 @@
 package main.java.Controller;
-//TESTE 
+ 
 import main.java.GUI.ConversorGUI;
 import main.java.Model.Conversor;
  
@@ -36,5 +36,5 @@ public class Controller
 	{
 		return new btnListener();
 	}
-	
+	//TESTE
 }
