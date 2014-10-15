@@ -1,5 +1,5 @@
 package main.java.Controller;
-//Comentário 
+//Comentário  
 import main.java.GUI.ConversorGUI;
 import main.java.Model.Conversor;
  
