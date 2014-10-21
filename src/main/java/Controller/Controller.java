@@ -1,4 +1,4 @@
-//teste
+//Comentário aqui
 package main.java.Controller;
  
 import main.java.GUI.ConversorGUI;
