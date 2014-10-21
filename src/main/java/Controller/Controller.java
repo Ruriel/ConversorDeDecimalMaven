@@ -1,4 +1,4 @@
-//HUE
+//Outro comentário.
 package main.java.Controller;
  
 import main.java.GUI.ConversorGUI;
