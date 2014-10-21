@@ -1,3 +1,4 @@
+//Comentário aqui
 //Outro comentário.
 package main.java.Controller;
  
@@ -31,11 +32,11 @@ public class Controller
 			view.setTextOct(model.converter(valor, 8));
 			view.setTextHex(model.converter(valor, 16));
 		}
-		
 	}
 	public ActionListener getBtnListener()
 	{
 		return new btnListener();
 	}
+	
 	
 }
